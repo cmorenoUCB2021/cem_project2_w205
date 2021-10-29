@@ -1,0 +1,104 @@
+,exam_name,num_exam,percent
+0,Learning Git,394,0.6761421319796954
+1,Introduction to Python,162,0.5666666666666667
+2,Introduction to Java 8,158,0.8759493670886076
+3,Intermediate Python Programming,158,0.5126582278481012
+4,Learning to Program with R,128,0.5446428571428571
+5,Introduction to Machine Learning,119,0.6869747899159664
+6,Software Architecture Fundamentals Understanding the Basics,109,0.4793577981651376
+7,Beginning C# Programming,95,0.5552631578947368
+8,Learning Eclipse,85,0.7058823529411764
+9,Learning Apache Maven,80,0.609375
+10,Beginning Programming with JavaScript,79,0.7658227848101266
+11,Mastering Git,77,0.5876623376623377
+12,Introduction to Big Data,75,0.6166666666666667
+13,Advanced Machine Learning,67,0.7238805970149254
+14,Learning Linux System Administration,59,0.5550847457627118
+15,JavaScript: The Good Parts Master Class with Douglas Crockford,58,0.6551724137931034
+16,Learning SQL,57,0.7368421052631579
+17,Practical Java Programming,53,0.5943396226415094
+18,HTML5 The Basics,52,0.6057692307692307
+19,Python Epiphanies,51,0.7418300653594772
+20,Software Architecture Fundamentals Beyond The Basics,48,0.5902777777777778
+21,Intermediate C# Programming,43,0.5697674418604651
+22,Introduction to Data Science with R,43,0.521594684385382
+23,Learning DNS,40,0.65
+24,Learning C# Best Practices,35,0.4628571428571429
+25,Expert Data Wrangling with R,35,0.6642857142857143
+26,Mastering Advanced Git,34,0.3602941176470588
+27,An Introduction to d3.js: From Scattered to Scatterplot,33,0.5909090909090909
+28,Data Visualization in R with ggplot2,31,0.49193548387096775
+29,Python Data Structures,29,0.5431034482758621
+30,Cloud Native Architecture Fundamentals,29,0.8
+31,Introduction to Time Series with Team Apache,28,0.7142857142857143
+32,Git Fundamentals for Web Developers,28,0.75
+33,Learning Linux Security,27,0.6203703703703703
+34,Introduction to Shiny,27,0.5370370370370371
+35,Mastering Python - Networking and Security,25,0.74
+36,Learning Java EE 7,25,0.48
+37,Using R for Big Data with Spark,24,0.5555555555555556
+38,Learning C# Design Patterns,23,0.717391304347826
+39,JavaScript Templating,21,0.6785714285714286
+40,TCP/IP,21,0.5619047619047619
+41,Reproducible Research and Reports with R Markdown,21,0.6190476190476191
+42,Learning iPython Notebook,17,0.5
+43,Refactor a Monolithic Architecture into Microservices,17,0.7647058823529411
+44,Cloud Computing With AWS,17,0.4264705882352941
+45,Learning Apache Hadoop,16,0.765625
+46,Networking for People Who Hate Networking,15,0.5555555555555556
+47,"I'm a Software Architect, Now What?",15,0.5333333333333333
+48,Design Patterns in Java,15,0.4666666666666667
+49,Relational Theory for Computer Professionals,15,0.6222222222222222
+50,Introduction to Architecting Amazon Web Services,14,0.5476190476190476
+51,Great Bash,14,0.6142857142857143
+52,Working with Algorithms in Python,14,0.7142857142857143
+53,Introduction to Apache Kafka,13,0.7692307692307692
+54,Offline Web,13,0.4358974358974359
+55,Learning Data Structures and Algorithms,13,0.5
+56,Introduction to Modern Client-Side Programming,13,0.5384615384615384
+57,Amazon Web Services - Simple Storage Service,12,0.5
+58,Learning Apache Cassandra,12,0.6666666666666666
+59,Amazon Web Services - Virtual Private Cloud,11,0.7272727272727273
+60,The Principles of Microservices,11,0.5681818181818182
+61,SQL: Beyond the Basics,11,0.6363636363636364
+62,Learning SQL for Oracle,11,0.9772727272727273
+63,Being a Better Introvert,10,0.5
+64,Event-Driven Microservices,10,0.6599999999999999
+65,Arduino Prototyping Basics,10,0.6799999999999999
+66,Architectural Considerations for Hadoop Applications,10,0.58
+67,Learning Data Modeling,9,0.5
+68,A Practical Introduction to React.js,9,0.5833333333333334
+69,Introduction to Apache Spark,9,0.8333333333333334
+70,Introduction to Hadoop YARN,8,0.75
+71,Nullology,8,0.375
+72,Arduino Inputs,8,0.6458333333333334
+73,Web & Native Working Together,8,0.4166666666666667
+74,Introduction to Apache Hive,7,0.5714285714285714
+75,Normal Forms and All That Jazz Master Class,7,0.6071428571428571
+76,Data Science with Microsoft Azure and R,7,0.6071428571428571
+77,Hadoop Fundamentals for Data Scientists,6,0.6666666666666666
+78,Collaborating with Git,6,0.7333333333333333
+79,Introduction to Modern Front-End Development,6,0.5833333333333334
+80,Introduction to Amazon Web Services (AWS) - EC2 Deployment Fundamentals,6,0.8333333333333334
+81,Starting a Grails 3 Project,5,0.75
+82,Modeling for Software Architects,5,0.65
+83,An Introduction to Set Theory,5,0.6
+84,Example Exam For Development and Testing oh yeahsdf,5,
+85,View Updating,4,0.25
+86,Using Storytelling to Effectively Communicate Data,4,0.75
+87,Service Based Architectures,3,0.6666666666666666
+88,Building Web Services with Java,3,0.4166666666666667
+89,Mastering Web Views,3,0.4166666666666667
+90,Getting Ready for Angular 2,3,0.8
+91,Using Web Components,3,0.5
+92,Learning Spring Programming,2,0.625
+93,Understanding the Grails 3 Domain Model,2,0.7857142857142857
+94,Arduino Prototyping Techniques,2,0.3333333333333333
+95,Hibernate and JPA Fundamentals,2,0.5
+96,The Closed World Assumption,2,1.0
+97,What's New in JavaScript,2,0.6428571428571429
+98,Client-Side Data Storage for Web Developers,2,0.2
+99,Learning to Visualize Data with D3.js,1,1.0
+100,"Nulls, Three-valued Logic and Missing Information",1,1.0
+101,Native Web Apps for Android,1,0.25
+102,Operating Red Hat Enterprise Linux Servers,1,0.55

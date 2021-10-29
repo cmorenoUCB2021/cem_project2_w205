@@ -1,0 +1,104 @@
+,exam_name,num_exam,correct,total
+0,Learning Git,394,1332.0,1970.0
+1,Introduction to Python,162,459.0,810.0
+2,Introduction to Java 8,158,692.0,790.0
+3,Intermediate Python Programming,158,324.0,632.0
+4,Learning to Program with R,128,488.0,896.0
+5,Introduction to Machine Learning,119,327.0,476.0
+6,Software Architecture Fundamentals Understanding the Basics,109,209.0,436.0
+7,Beginning C# Programming,95,211.0,380.0
+8,Learning Eclipse,85,300.0,425.0
+9,Learning Apache Maven,80,195.0,320.0
+10,Beginning Programming with JavaScript,79,242.0,316.0
+11,Mastering Git,77,181.0,308.0
+12,Introduction to Big Data,75,185.0,300.0
+13,Advanced Machine Learning,67,194.0,268.0
+14,Learning Linux System Administration,59,262.0,472.0
+15,JavaScript: The Good Parts Master Class with Douglas Crockford,58,152.0,232.0
+16,Learning SQL,57,168.0,228.0
+17,Practical Java Programming,53,126.0,212.0
+18,HTML5 The Basics,52,189.0,312.0
+19,Python Epiphanies,51,227.0,306.0
+20,Software Architecture Fundamentals Beyond The Basics,48,85.0,144.0
+21,Intermediate C# Programming,43,98.0,172.0
+22,Introduction to Data Science with R,43,157.0,301.0
+23,Learning DNS,40,104.0,160.0
+24,Learning C# Best Practices,35,81.0,175.0
+25,Expert Data Wrangling with R,35,93.0,140.0
+26,Mastering Advanced Git,34,49.0,136.0
+27,An Introduction to d3.js: From Scattered to Scatterplot,33,78.0,132.0
+28,Data Visualization in R with ggplot2,31,61.0,124.0
+29,Python Data Structures,29,63.0,116.0
+30,Cloud Native Architecture Fundamentals,29,116.0,145.0
+31,Introduction to Time Series with Team Apache,28,60.0,84.0
+32,Git Fundamentals for Web Developers,28,21.0,28.0
+33,Learning Linux Security,27,67.0,108.0
+34,Introduction to Shiny,27,58.0,108.0
+35,Mastering Python - Networking and Security,25,74.0,100.0
+36,Learning Java EE 7,25,36.0,75.0
+37,Using R for Big Data with Spark,24,40.0,72.0
+38,Learning C# Design Patterns,23,66.0,92.0
+39,JavaScript Templating,21,57.0,84.0
+40,TCP/IP,21,59.0,105.0
+41,Reproducible Research and Reports with R Markdown,21,52.0,84.0
+42,Learning iPython Notebook,17,34.0,68.0
+43,Refactor a Monolithic Architecture into Microservices,17,39.0,51.0
+44,Cloud Computing With AWS,17,29.0,68.0
+45,Learning Apache Hadoop,16,49.0,64.0
+46,Networking for People Who Hate Networking,15,25.0,45.0
+47,"I'm a Software Architect, Now What?",15,32.0,60.0
+48,Design Patterns in Java,15,35.0,75.0
+49,Relational Theory for Computer Professionals,15,28.0,45.0
+50,Introduction to Architecting Amazon Web Services,14,23.0,42.0
+51,Great Bash,14,86.0,140.0
+52,Working with Algorithms in Python,14,40.0,56.0
+53,Introduction to Apache Kafka,13,30.0,39.0
+54,Offline Web,13,17.0,39.0
+55,Learning Data Structures and Algorithms,13,26.0,52.0
+56,Introduction to Modern Client-Side Programming,13,28.0,52.0
+57,Amazon Web Services - Simple Storage Service,12,18.0,36.0
+58,Learning Apache Cassandra,12,32.0,48.0
+59,Amazon Web Services - Virtual Private Cloud,11,32.0,44.0
+60,The Principles of Microservices,11,25.0,44.0
+61,SQL: Beyond the Basics,11,28.0,44.0
+62,Learning SQL for Oracle,11,43.0,44.0
+63,Being a Better Introvert,10,15.0,30.0
+64,Event-Driven Microservices,10,33.0,50.0
+65,Arduino Prototyping Basics,10,34.0,50.0
+66,Architectural Considerations for Hadoop Applications,10,29.0,50.0
+67,Learning Data Modeling,9,18.0,36.0
+68,A Practical Introduction to React.js,9,21.0,36.0
+69,Introduction to Apache Spark,9,30.0,36.0
+70,Introduction to Hadoop YARN,8,6.0,8.0
+71,Nullology,8,3.0,8.0
+72,Arduino Inputs,8,31.0,48.0
+73,Web & Native Working Together,8,10.0,24.0
+74,Introduction to Apache Hive,7,4.0,7.0
+75,Normal Forms and All That Jazz Master Class,7,17.0,28.0
+76,Data Science with Microsoft Azure and R,7,17.0,28.0
+77,Hadoop Fundamentals for Data Scientists,6,8.0,12.0
+78,Collaborating with Git,6,22.0,30.0
+79,Introduction to Modern Front-End Development,6,21.0,36.0
+80,Introduction to Amazon Web Services (AWS) - EC2 Deployment Fundamentals,6,15.0,18.0
+81,Starting a Grails 3 Project,5,15.0,20.0
+82,Modeling for Software Architects,5,13.0,20.0
+83,An Introduction to Set Theory,5,6.0,10.0
+84,Example Exam For Development and Testing oh yeahsdf,5,,
+85,View Updating,4,1.0,4.0
+86,Using Storytelling to Effectively Communicate Data,4,12.0,16.0
+87,Service Based Architectures,3,8.0,12.0
+88,Building Web Services with Java,3,5.0,12.0
+89,Mastering Web Views,3,5.0,12.0
+90,Getting Ready for Angular 2,3,12.0,15.0
+91,Using Web Components,3,9.0,18.0
+92,Learning Spring Programming,2,5.0,8.0
+93,Understanding the Grails 3 Domain Model,2,11.0,14.0
+94,Arduino Prototyping Techniques,2,4.0,12.0
+95,Hibernate and JPA Fundamentals,2,4.0,8.0
+96,The Closed World Assumption,2,4.0,4.0
+97,What's New in JavaScript,2,9.0,14.0
+98,Client-Side Data Storage for Web Developers,2,2.0,10.0
+99,Learning to Visualize Data with D3.js,1,3.0,3.0
+100,"Nulls, Three-valued Logic and Missing Information",1,1.0,1.0
+101,Native Web Apps for Android,1,1.0,4.0
+102,Operating Red Hat Enterprise Linux Servers,1,11.0,20.0
